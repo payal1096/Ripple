@@ -1,0 +1,11 @@
+# Ripple — Phase 2: Backend Development Dependencies
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+pydantic>=2.8.0
+pyjwt>=2.9.0
+python-dotenv>=1.0.1
+httpx>=0.27.0
+pytest>=8.2.0
+
+# Phase 3 Database Dependencies
+pymongo>=4.8.0
